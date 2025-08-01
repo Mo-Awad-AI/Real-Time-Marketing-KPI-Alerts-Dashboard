@@ -19,4 +19,4 @@ Aggregate your most important marketing KPIs (traffic, conversions, ROAS, social
 ---
 
 ## 🖼️ Preview
-![KPI Dashboard Screenshot](assets/kpi-dashboard.png)
+https://github.com/Mo-Awad-AI/Real-Time-Marketing-KPI-Alerts-Dashboard/blob/d598c651c133368565851f6d856b526bfe055027/Real-Time-Marketing-KPI-Alerts-Dash.png
